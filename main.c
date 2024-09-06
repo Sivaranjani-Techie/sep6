@@ -1,5 +1,5 @@
 void main()
 {
 printf("Hi Salmon Joy! R u busy?");
-printf("");
+printf("Salmon Test");
 }
